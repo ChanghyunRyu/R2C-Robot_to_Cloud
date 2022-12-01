@@ -11,4 +11,8 @@ This project was written for a final team project for Next-generation distribute
 
 ![outline](https://user-images.githubusercontent.com/83490220/204951928-420247f3-1f13-4239-a7b6-2da13c96c081.png)
 
+First, improving performance of SLAM is not the goal of this project. the goal is providing SLAM mapping to several robots. Also even if the number of robots increase, It is to maintain the service by appropriately responding to the traffic.
 
+We will run several robots using ROS's gazebo for testing.  
+
+Deploy the services providing to robots. And we will use Metric Sever and HPA to deal with traffic with auto-scaling.
