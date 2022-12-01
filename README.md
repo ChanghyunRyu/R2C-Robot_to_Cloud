@@ -9,6 +9,6 @@ This project was written for a final team project for Next-generation distribute
 
 ## Project Outline
 
----
+![outline](https://user-images.githubusercontent.com/83490220/204951558-3f540f13-ade0-43c1-8780-866ad74dfe15.png)
 
 
