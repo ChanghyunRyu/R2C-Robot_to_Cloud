@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/dw/Desktop/docker-files/multislam/map_merge/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/dw/Desktop/docker-files/multislam/map_merge/catkin_ws/install -G Unix Makefiles

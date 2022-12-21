@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/dw/Desktop/docker-files/multislam/map_merge/catkin_ws/devel/setup.sh
