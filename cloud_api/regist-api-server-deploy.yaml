@@ -1,0 +1,23 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: robot-registration-api-depoly
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: robot-registration-api-depoly
+  template:
+    metadata:
+      annotations:
+        prometheus.io/scrape: "true"
+      labels:
+        app: robot-registration-api-depoly
+    spec:
+      containers:
+      - name: robot-registration-api
+        image: 2721ckd/r2c-rb-regist-api:v3
+        ports:
+        - containerPort: 8082
+
+
