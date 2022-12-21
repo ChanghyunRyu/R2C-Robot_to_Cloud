@@ -1,0 +1,6 @@
+FROM python:3.7
+EXPOSE 8081
+RUN pip install flask requests git
+WORKDIR /app
+COPY rb-regist-api.py /app
+CMD ["python", "rb-regist-api.py"]
