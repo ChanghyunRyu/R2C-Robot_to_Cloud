@@ -16,3 +16,9 @@ First, improving performance of SLAM is not the goal of this project. the goal i
 We will run several robots using ROS's gazebo for testing.  
 
 Deploy the services providing to robots. And we will use Metric Sever and HPA to deal with traffic with auto-scaling.
+
+## Presentation
+https://konkukackr-my.sharepoint.com/:b:/g/personal/dks01972_konkuk_ac_kr/EeacwefZDnVIu2Bmefw5XbEBoLrK_e4iL9imbd84UzzUDw?e=XvGZBB
+
+## Demonstration
+https://konkukackr-my.sharepoint.com/:v:/g/personal/dks01972_konkuk_ac_kr/ETtF1npiv8lNgZlKtEI-m9UBNDDnqVUMsuOiH3yQKSrzPw?e=32RtYU
